@@ -2,6 +2,8 @@
 
 Browser-based TOTP (Time-based One-Time Password) generator — like Google Authenticator, but as a web app. No install, no phone needed. Open a tab, unlock your vault, and your codes are there.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYanu403%2Ftotp-web)
+
 ## Features
 
 - **TOTP code generation** — RFC 6238 / RFC 4226 compliant (SHA-1)
